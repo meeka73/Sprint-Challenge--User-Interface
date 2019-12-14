@@ -70,7 +70,6 @@ header {
     width: 800px;
     margin: 0 auto;
     padding: 10px 0;
-    border: 1px solid;
 }
 
 nav {
@@ -200,3 +199,28 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.image-aboutHeader {
+    padding: 20px 0;
+}
+
+.top-content {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.top-content p {
+    padding-bottom: 10px;
+}
+
+.middle-content {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
